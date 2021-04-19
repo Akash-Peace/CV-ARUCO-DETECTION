@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Akash-Peace/CV-ARUCO-DETECTION/blob/main/screenshots/AR_Video_logo.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/Akash-Peace/CV-ARUCO-DETECTION/blob/main/screenshots/APE_logo.png" alt="Logo" width="150" height="150">
   <h3 align="center">ARUCO PHOTO EMBEDDING</h3>
   <p align="center">
     <a href="https://docs.python.org/3/library/intro.html"><strong>A Python Library</strong></a>
