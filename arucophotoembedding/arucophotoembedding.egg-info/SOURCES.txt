@@ -1,0 +1,8 @@
+README.md
+setup.py
+arucophotoembedding/arucophotoembedding.py
+arucophotoembedding/arucophotoembedding.egg-info/PKG-INFO
+arucophotoembedding/arucophotoembedding.egg-info/SOURCES.txt
+arucophotoembedding/arucophotoembedding.egg-info/dependency_links.txt
+arucophotoembedding/arucophotoembedding.egg-info/requires.txt
+arucophotoembedding/arucophotoembedding.egg-info/top_level.txt
